@@ -1,0 +1,2 @@
+# simongame
+Simon game miniproject
